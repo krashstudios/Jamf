@@ -23,7 +23,7 @@ The script checks what version of GlobalProtect is installed and then searches t
 	</code>
 </pre>
 
-![](/img/Screen Shot 2021-02-05 at 1.55.36 PM.png)
+![](https://github.com/krashstudios/Jamf/raw/master/Scripts/Global%20Protect%20Uninstaller%20Fix/img/Screen%20Shot%202021-02-05%20at%201.55.36%20PM.png)
 
 
 
