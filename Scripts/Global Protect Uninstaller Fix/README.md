@@ -1,6 +1,6 @@
 # GlobalProtect Uninstaller Fix
 
-GlobalProtect Uninstaller Fix supplements paloalto's macOS GlobalProtect uninstaller to fix the call to remove the programs Keychain remnants. The original line of code calls the Keychain service as GlobalProtect but should be calling it as GlobalProtectService.
+GlobalProtect Uninstaller Fix supplements paloalto's macOS GlobalProtect uninstaller to fix the call to remove the programs Keychain entry. The original line of code calls the Keychain service as GlobalProtect but should be calling it as GlobalProtectService.
 
 ###  Original Line of code
 
