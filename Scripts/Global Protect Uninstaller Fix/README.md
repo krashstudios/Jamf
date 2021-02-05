@@ -1,4 +1,4 @@
-# GlobalProtect Uninstaller Fix
+#GlobalProtect Uninstaller Fix
 
 GlobalProtect Uninstaller Fix supplements paloalto's macOS GlobalProtect uninstaller to fix the call to remove the keychain password.
 
