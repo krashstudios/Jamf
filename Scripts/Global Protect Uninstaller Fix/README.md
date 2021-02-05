@@ -23,6 +23,8 @@ The script checks what version of GlobalProtect is installed and then searches t
 	</code>
 </pre>
 
+![](/img/Screen Shot 2021-02-05 at 1.55.36 PM.png)
+
 
 
 
